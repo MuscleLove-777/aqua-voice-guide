@@ -1,0 +1,53 @@
+{
+  "Aqua Voice 使い方": [
+    {"keyword": "Aqua Voiceとは 開発者向けAI音声入力ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 始め方 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice インストール方法 Mac Windows", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice VSCode連携 設定方法", "priority": "medium", "status": "pending"},
+    {"keyword": "Aqua Voice ターミナル操作 音声入力", "priority": "medium", "status": "pending"}
+  ],
+  "Aqua Voice 料金・プラン": [
+    {"keyword": "Aqua Voice Free vs Pro 比較 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice $8/月で無制限 コスパ検証", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 無料版 できること 制限", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 年間プラン 割引", "priority": "low", "status": "pending"}
+  ],
+  "Aqua Voice vs Wispr Flow": [
+    {"keyword": "Aqua Voice vs Wispr Flow 2026 徹底比較", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice vs Typeless どっちがいい", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice vs Superwhisper 比較", "priority": "medium", "status": "pending"},
+    {"keyword": "音声入力ツール 開発者向け 乗り換えガイド", "priority": "medium", "status": "pending"}
+  ],
+  "Aqua Voice 最新ニュース": [
+    {"keyword": "Aqua Voice Avalonモデル 精度97.3%達成", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 最新アップデート 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 新機能 まとめ", "priority": "high", "status": "pending"},
+    {"keyword": "AI音声入力 業界動向 2026", "priority": "medium", "status": "pending"}
+  ],
+  "AI音声入力 開発者向け": [
+    {"keyword": "プログラマーが音声入力すべき5つの理由", "priority": "high", "status": "pending"},
+    {"keyword": "useEffectもkubectlも認識 技術用語音声入力", "priority": "high", "status": "pending"},
+    {"keyword": "音声コーディング 生産性 230WPM", "priority": "medium", "status": "pending"},
+    {"keyword": "RSI予防 音声入力 エンジニア健康", "priority": "medium", "status": "pending"},
+    {"keyword": "音声入力 プログラミング言語別 対応状況", "priority": "medium", "status": "pending"}
+  ],
+  "Aqua Voice 活用テクニック": [
+    {"keyword": "Aqua Voice カスタム辞書800語 活用術", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 230WPMで爆速コーディング", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice ショートカットキー 完全ガイド", "priority": "medium", "status": "pending"},
+    {"keyword": "Aqua Voice Git操作 音声コマンド", "priority": "medium", "status": "pending"},
+    {"keyword": "Aqua Voice Slack Teams 音声入力テクニック", "priority": "low", "status": "pending"}
+  ],
+  "音声入力ツール比較": [
+    {"keyword": "AI音声入力5社比較 Aqua Voice Wispr Flow Typeless Superwhisper Voibe", "priority": "high", "status": "pending"},
+    {"keyword": "音声入力ツール おすすめランキング 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Mac向け 音声入力アプリ 比較", "priority": "medium", "status": "pending"},
+    {"keyword": "Windows向け AI音声入力 おすすめ", "priority": "medium", "status": "pending"}
+  ],
+  "Aqua Voice カスタム辞書": [
+    {"keyword": "Aqua Voice 変数名を辞書登録する方法", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice カスタム辞書 設定ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Aqua Voice 専門用語 辞書登録 ベストプラクティス", "priority": "medium", "status": "pending"},
+    {"keyword": "Aqua Voice チーム辞書 共有方法", "priority": "medium", "status": "pending"}
+  ]
+}
