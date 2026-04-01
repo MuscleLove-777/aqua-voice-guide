@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aqua Voice完全ガイド</title>
+    <link>https://musclelove-777.github.io/aqua-voice-guide</link>
+    <description>開発者向けAI音声入力ツールAqua Voiceの使い方・最新機能・料金を毎日更新。技術用語97%精度の音声コーディングを完全解説。</description>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Apr 2026 23:14:32 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/aqua-voice-guide/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2026年最新！Aqua Voice 使い方徹底解説 - 開発者必見</title>
+      <link>https://musclelove-777.github.io/aqua-voice-guide/articles/aqua-voice-how-to-use-for-developers-2026-latest.html</link>
+      <guid>https://musclelove-777.github.io/aqua-voice-guide/articles/aqua-voice-how-to-use-for-developers-2026-latest.html</guid>
+      <description></description>
+      <category>Aqua Voice 使い方</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
